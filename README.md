@@ -1,0 +1,2 @@
+# StudyOS
+For students
